@@ -1,2 +1,2 @@
-# First-project
+# How to save a life
 First project
